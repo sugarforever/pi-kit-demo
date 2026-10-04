@@ -1,0 +1,6 @@
+{
+  "name": "tip-calc",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": { "tip": "./tip.js" }
+}
